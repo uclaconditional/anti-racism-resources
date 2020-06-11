@@ -91,7 +91,7 @@
 
 *  [Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers](https://secure.actblue.com/donate/bail_funds_george_floyd) 
 *  [People’s City Council Freedom Fund & Black Lives Matter LA](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=66c15f3f77&e=44ebc78a6d) 
-* LA Action Bail Fund (BLMLA’s partner for LA bail donations, 100% of donations go to the fund: [ https://linktr.ee/ActionBailFundLA](https://linktr.ee/ActionBailFundLA) 
+* [LA Action Bail Fund (BLMLA’s partner for LA bail donations, 100% of donations go to the fund](https://linktr.ee/ActionBailFundLA) 
 * [People’s City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund) 
 * [Black Visions Collective](https://secure.everyaction.com/4omQDAR0oUiUagTu0EG-Ig2) 
 * [Trans Justice Funding Project](https://www.transjusticefundingproject.org/donate-now/) 
