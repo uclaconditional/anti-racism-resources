@@ -38,6 +38,9 @@
 *  [This Bridge Called My Back: Writings by Radical Women of Color](https://bookshop.org/books/this-bridge-called-my-back-fourth-edition-writings-by-radical-women-of-color/9781438454382)  by Cherríe Moraga
 *  [When Affirmative Action Was White: An Untold History of Racial Inequality in Twentieth-Century America](https://books.google.com/books/about/When_Affirmative_Action_was_White.html?id=cfhneJPcD38C)  by Ira Katznelson
 *  [White Fragility: Why It’s So Hard for White People to Talk About Racism](https://robindiangelo.com/publications/)  by Robin DiAngelo, PhD
+*  [Freedom Is a Constant Struggle](https://www.goodreads.com/book/show/25330108-freedom-is-a-constant-struggle?ac=1&from_search=true&qid=ce3kHrOzgY&rank=1)  by Angela Y. Davis
+*  [Dark Matters: On the Surveillance of Blackness](https://www.goodreads.com/book/show/23525954-dark-matters)  by Simone Browne
+*  [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology)  by Ruha Benjamin
 
 ### Articles
 
@@ -61,6 +64,7 @@
 *  [Black Feminism & the Movement for Black Lives: Barbara Smith, Reina Gossett, Charlene Carruthers (50:48)](https://youtu.be/eV3nnFheQRo) 
 *  [“How Studying Privilege Systems Can Strengthen Compassion”](https://youtu.be/e-BY9UEewHw)  | Peggy McIntosh at TEDxTimberlaneSchools (18:26)
 *  [Reconstruction: America After the Civil War](https://www.pbs.org/weta/reconstruction/) 
+*  [13th](https://youtu.be/krfcq5pF8u8)  | by Ava DuVernay (1:40:02)
 
 ## TEACHING
 
