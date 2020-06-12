@@ -103,6 +103,8 @@
 
 ## BLACK OWNED RESTAURANTS IN LA
 
- [Support LA’s Black-Owned Restaurants](https://docs.google.com/spreadsheets/d/18w-0RBhwBBlXDN9kRV9DVSCAGSCjtHb9K0Pq2YBv18U/htmlview) 
+[Support LA’s Black-Owned Restaurants](https://docs.google.com/spreadsheets/d/18w-0RBhwBBlXDN9kRV9DVSCAGSCjtHb9K0Pq2YBv18U/htmlview) 
 
+## Other Resources
 
+* [An Excellent BLM Notion](https://www.notion.so/BLACK-LIVES-MATTER-68fe71a3e6974eaa9629af047a074384)
