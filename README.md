@@ -67,7 +67,11 @@
 *  [Difficult Knowledge, Trauma Informed Pedagogy and Safe-ish Spaces](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=d3186f9a71&e=44ebc78a6d)  _(UC Berkeley)_
 *  [Affirming Black Lives Without Inducing Trauma](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=10f7e98f03&e=44ebc78a6d) _(Teaching Tolerance)_
 *  [Zinn Education Project Teaching Materials](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=bcf039c67f&e=44ebc78a6d) _(Zinn Education Project)_
+
+### READERS AND SYLLABI
 *  [The Decolonizing Design Reader](https://docs.google.com/document/d/1Hbymt6a3zz044xF_LCqGfTmXJip3cetj5sHlxZEjtJ4/edit?pli=1) 
+* [Tech and Media Art – Decolonize the Syllabus](https://docs.google.com/document/d/1XQyVA4iHM9uK_XGxx92aLLbMIoRqKzSs47sjIZ3Kulg/edit)
+* [Decolonizing Games Reader](https://docs.google.com/document/d/132Ht4B52xhyYJoohWHSAWl2yNUJjZNvt8JlhbpG_Qds/edit)
 
 ## UCLA RESOURCES
 
@@ -108,3 +112,4 @@
 ## OTHER RESOURCES
 
 * [An Excellent BLM Notion](https://www.notion.so/BLACK-LIVES-MATTER-68fe71a3e6974eaa9629af047a074384)
+* [FANTASY WORLD MASTER LIST OF RESOURCES ON HOW TO DISMANTLE SYSTEMIC RACISM](http://pfw.guide/)
