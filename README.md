@@ -38,6 +38,9 @@
 *  [This Bridge Called My Back: Writings by Radical Women of Color](https://bookshop.org/books/this-bridge-called-my-back-fourth-edition-writings-by-radical-women-of-color/9781438454382)  by Cherríe Moraga
 *  [When Affirmative Action Was White: An Untold History of Racial Inequality in Twentieth-Century America](https://books.google.com/books/about/When_Affirmative_Action_was_White.html?id=cfhneJPcD38C)  by Ira Katznelson
 *  [White Fragility: Why It’s So Hard for White People to Talk About Racism](https://robindiangelo.com/publications/)  by Robin DiAngelo, PhD
+*  [Freedom Is a Constant Struggle](https://www.goodreads.com/book/show/25330108-freedom-is-a-constant-struggle?ac=1&from_search=true&qid=ce3kHrOzgY&rank=1)  by Angela Y. Davis
+*  [Dark Matters: On the Surveillance of Blackness](https://www.goodreads.com/book/show/23525954-dark-matters)  by Simone Browne
+*  [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology)  by Ruha Benjamin
 
 ### Articles
 
@@ -61,6 +64,7 @@
 *  [Black Feminism & the Movement for Black Lives: Barbara Smith, Reina Gossett, Charlene Carruthers (50:48)](https://youtu.be/eV3nnFheQRo) 
 *  [“How Studying Privilege Systems Can Strengthen Compassion”](https://youtu.be/e-BY9UEewHw)  | Peggy McIntosh at TEDxTimberlaneSchools (18:26)
 *  [Reconstruction: America After the Civil War](https://www.pbs.org/weta/reconstruction/) 
+*  [13th](https://youtu.be/krfcq5pF8u8)  | by Ava DuVernay (1:40:02)
 
 ## TEACHING
 
@@ -70,6 +74,8 @@
 
 ### Readers and Syllabi
 *  [The Decolonizing Design Reader](https://docs.google.com/document/d/1Hbymt6a3zz044xF_LCqGfTmXJip3cetj5sHlxZEjtJ4/edit?pli=1) 
+*  [Teaching to Transgress: Education as the Practice of Freedom](https://www.goodreads.com/book/show/27091.Teaching_to_Transgress?ac=1&from_search=true&qid=KsajnB6YFJ&rank=1)_(by bell hooks)_
+*  [Pedagogy of the Oppressed](https://www.goodreads.com/book/show/72657.Pedagogy_of_the_Oppressed)_(by Paulo Freire)_
 * [Tech and Media Art – Decolonize the Syllabus](https://docs.google.com/document/d/1XQyVA4iHM9uK_XGxx92aLLbMIoRqKzSs47sjIZ3Kulg/edit)
 * [Decolonizing Games Reader](https://docs.google.com/document/d/132Ht4B52xhyYJoohWHSAWl2yNUJjZNvt8JlhbpG_Qds/edit)
 
