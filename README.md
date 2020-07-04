@@ -11,7 +11,7 @@
 
 ## READ
 
-### Reading Lists and Syllabi
+### Reading Lists
 *  [Reading Towards Abolition: A Reading List on Policing, Rebellion, and the Criminalization of Blackness](https://www.radicalhistoryreview.org/abusablepast/reading-towards-abolition-a-reading-list-on-policing-rebellion-and-the-criminalization-of-blackness/) 
 *  [Black Feminist Thought](https://books.google.com/books/about/Black_Feminist_Thought.html?id=cdtYsU3zR14C)  by Patricia Hill Collins
 *  [Schomburg Center Black Liberation Reading List](https://www.nypl.org/blog/2020/06/09/schomburg-center-black-liberation-reading-list)  
@@ -71,9 +71,13 @@
 *  [Difficult Knowledge, Trauma Informed Pedagogy and Safe-ish Spaces](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=d3186f9a71&e=44ebc78a6d)  _(UC Berkeley)_
 *  [Affirming Black Lives Without Inducing Trauma](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=10f7e98f03&e=44ebc78a6d) _(Teaching Tolerance)_
 *  [Zinn Education Project Teaching Materials](https://ucla.us13.list-manage.com/track/click?u=f5ac1012b391baf2f7bddd2b8&id=bcf039c67f&e=44ebc78a6d) _(Zinn Education Project)_
+
+### Readers and Syllabi
 *  [The Decolonizing Design Reader](https://docs.google.com/document/d/1Hbymt6a3zz044xF_LCqGfTmXJip3cetj5sHlxZEjtJ4/edit?pli=1) 
 *  [Teaching to Transgress: Education as the Practice of Freedom](https://www.goodreads.com/book/show/27091.Teaching_to_Transgress?ac=1&from_search=true&qid=KsajnB6YFJ&rank=1)_(by bell hooks)_
 *  [Pedagogy of the Oppressed](https://www.goodreads.com/book/show/72657.Pedagogy_of_the_Oppressed)_(by Paulo Freire)_
+* [Tech and Media Art – Decolonize the Syllabus](https://docs.google.com/document/d/1XQyVA4iHM9uK_XGxx92aLLbMIoRqKzSs47sjIZ3Kulg/edit)
+* [Decolonizing Games Reader](https://docs.google.com/document/d/132Ht4B52xhyYJoohWHSAWl2yNUJjZNvt8JlhbpG_Qds/edit)
 
 ## UCLA RESOURCES
 
@@ -114,3 +118,4 @@
 ## OTHER RESOURCES
 
 * [An Excellent BLM Notion](https://www.notion.so/BLACK-LIVES-MATTER-68fe71a3e6974eaa9629af047a074384)
+* [FANTASY WORLD MASTER LIST OF RESOURCES ON HOW TO DISMANTLE SYSTEMIC RACISM](http://pfw.guide/)
